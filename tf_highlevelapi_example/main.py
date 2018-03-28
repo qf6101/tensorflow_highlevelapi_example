@@ -128,6 +128,8 @@ def main(args):
         train_sklearn_lr(FLAGS)
     elif FLAGS.task == 'eval_sklearn_lr':
         eval_sklearn_lr(FLAGS)
+    else:
+        print('Wrong task.')
 
 
 if __name__ == '__main__':
