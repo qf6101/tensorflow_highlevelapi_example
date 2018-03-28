@@ -1,4 +1,4 @@
-## Tensorflow High Level API Examples
+## Tensorflow High Level API Example
 
 This repository includes an example project with tensorflow high level API (based on version 1.6). Here are some features.
 
